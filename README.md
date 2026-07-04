@@ -1,32 +1,32 @@
-# 🛍️ VueMart - E-commerce Website
+# 🛒 VueMart - E-commerce Website
 
-A modern E-commerce web application built with Vue.js.
+A responsive e-commerce web application built using Vue.js and Vite.
 
-## 🚀 Features
+## 🚀 Live Demo
+
+👉 https://vuemart-ecommerce.vercel.app
+
+## ✨ Features
 
 - 🏠 Home Page
 - 📦 Product Listing
-- 🔍 Search Products
-- 📄 Product Details Page
+- 🔍 Product Search
+- 📄 Product Details
 - 🛒 Shopping Cart
-- ➕ Increase/Decrease Quantity
-- ❌ Remove Items from Cart
-- 💾 Cart Persistence using Local Storage
 - 💳 Checkout Page
 - ✅ Order Success Page
-- 📱 Responsive Design
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
-- Vue.js
+- Vue.js 3
 - Vue Router
 - Pinia
 - Axios
 - Bootstrap 5
+- Vite
 - DummyJSON API
 
-
-## ⚙️ Installation
+## 📂 Installation
 
 ```bash
 git clone https://github.com/tamjeela-dev/vuemart-ecommerce.git
@@ -42,5 +42,4 @@ npm run dev
 
 **Tamjeela Shabeer**
 
-GitHub:
-https://github.com/tamjeela-dev
+GitHub: https://github.com/tamjeela-dev

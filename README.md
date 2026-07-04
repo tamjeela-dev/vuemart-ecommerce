@@ -1,38 +1,46 @@
-# vue-mart
+# 🛍️ VueMart - E-commerce Website
 
-This template should help get you started developing with Vue 3 in Vite.
+A modern E-commerce web application built with Vue.js.
 
-## Recommended IDE Setup
+## 🚀 Features
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- 🏠 Home Page
+- 📦 Product Listing
+- 🔍 Search Products
+- 📄 Product Details Page
+- 🛒 Shopping Cart
+- ➕ Increase/Decrease Quantity
+- ❌ Remove Items from Cart
+- 💾 Cart Persistence using Local Storage
+- 💳 Checkout Page
+- ✅ Order Success Page
+- 📱 Responsive Design
 
-## Recommended Browser Setup
+## 🛠️ Built With
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- Vue.js
+- Vue Router
+- Pinia
+- Axios
+- Bootstrap 5
+- DummyJSON API
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## ⚙️ Installation
 
-## Project Setup
+```bash
+git clone https://github.com/tamjeela-dev/vuemart-ecommerce.git
 
-```sh
+cd vuemart-ecommerce
+
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## 👩‍💻 Author
 
-```sh
-npm run build
-```
+**Tamjeela Shabeer**
+
+GitHub:
+https://github.com/tamjeela-dev
